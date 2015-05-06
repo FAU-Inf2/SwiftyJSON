@@ -87,7 +87,7 @@ if let userName = json[999999]["wrong_key"]["wrong_name"].string{
 ##Integration
 
 You can use [Carthage](https://github.com/Carthage/Carthage) to install `SwiftyJSON` by adding
-`github "FAU-Inf2/SwiftyJSON" >= 2.1.3` to your `Cartfile`
+`github "FAU-Inf2/SwiftyJSON" >= 2.1.4` to your `Cartfile`
 
 CocoaPods is now supported for Swift. But to use this library in your project manually you may:  
 
